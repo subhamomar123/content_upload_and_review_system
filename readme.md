@@ -30,9 +30,8 @@ This project is a Content Upload and Review System built with Flask, designed to
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/subhamomar123/content_upload_and_review_system/edit/main/readme.md
+   cd content_upload_and_review_system
 
 2. Create a virtual environment:
 
